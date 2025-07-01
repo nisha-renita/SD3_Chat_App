@@ -1,20 +1,61 @@
-# Realtime Chat Application
+ SD3 Chat App
+A simple real-time chat application built using React, Node.js, and Socket.io.
 
-### [Live Site](https://realtime-chat-application.netlify.com)
+This is one of my full-stack projects where users can chat instantly in rooms with real-time message updates.
 
-### [🌟 Become a top 1% Next.js developer in only one course](https://jsmastery.pro/next15)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+🔧 Features
+Join and create chat rooms
 
-![Chat Application](https://i.ytimg.com/vi/ZwFA3YMfkoc/maxresdefault.jpg)
+Send and receive messages instantly
 
-## Introduction
-This is a code repository for the corresponding video tutorial. 
+Real-time communication with web sockets
 
-In this video, we will create a full Realtime Chat Application. We're going to use  React on the front end, with NodeJS + Socket.io web socket library on the back end. 
+Responsive user interface
 
-By the end of this video, you will have a strong understanding of how to send and receive messages using web sockets and Socket.io to make any real-time application.
+🚀 Tech Stack
+Frontend – React
 
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
+Backend – Node.js + Express
 
-Setup:
-- run ```npm i && npm start``` for both client and server side to start the development server
+Real-time – Socket.io
+
+🛠️ How to Run Locally
+Clone the repo:
+
+bash
+Copy
+Edit
+git clone https://github.com/nisha-renita/SD3_Chat_App.git
+Install and start backend:
+
+bash
+Copy
+Edit
+cd SD3_Chat_App/server
+npm install
+npm start
+Install and start frontend:
+
+bash
+Copy
+Edit
+cd ../client
+npm install
+npm start
+Visit in your browser:
+
+arduino
+Copy
+Edit
+http://localhost:3000
+👤 Author
+Nisha Renita
+Chat App Project - Part of Software Developer Portfolio
+
+✅ Notes
+No database used, only live chat.
+
+Simple to test and run locally.
+
+Good example of real-time communication.
+
